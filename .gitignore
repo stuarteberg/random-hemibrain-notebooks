@@ -1,0 +1,9 @@
+*~
+
+8nm/
+16nm/
+32nm/
+.ipynb_checkpoints/
+notebook-cluster*/
+
+*.npy
